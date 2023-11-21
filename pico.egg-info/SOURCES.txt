@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+pico.egg-info/PKG-INFO
+pico.egg-info/SOURCES.txt
+pico.egg-info/dependency_links.txt
+pico.egg-info/top_level.txt
+pyTest/__init__.py
+pyTest/arithmetic.py
