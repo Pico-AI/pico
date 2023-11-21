@@ -3,12 +3,12 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "pico"
-version = "0.1.6"
+name = "picoai"
+version = "0.1.1"
 authors = [
-  { name="Example Author", email="author@example.com" },
+  { name="Pico", email="trycapybara@gmail.com" },
 ]
-description = "A small example package"
+description = "chico pico"
 readme = "README.md"
 requires-python = ">=3.7"
 classifiers = [
