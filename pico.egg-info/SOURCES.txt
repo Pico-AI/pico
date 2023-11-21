@@ -1,8 +1,0 @@
-README.md
-pyproject.toml
-pico/__init__.py
-pico/actions.py
-pico.egg-info/PKG-INFO
-pico.egg-info/SOURCES.txt
-pico.egg-info/dependency_links.txt
-pico.egg-info/top_level.txt
